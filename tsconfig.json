@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "removeComments": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "jsx": "react-jsx",
+    }
+}
